@@ -1,0 +1,32 @@
+Task- 7
+
+Identify and remove suspicious browser extensions
+Tools: Chrome / Firefox / Edge
+
+Browser: Chrome
+
+Installed Extensions:
+
+Adobe Acrobat (Disabled, Trusted)
+Google Docs Offline (Enabled, Trusted)
+McAfee WebAdvisor (Enabled, Trusted)
+
+Steps Taken:
+
+-Opened extension manager and reviewed installed extensions.
+-Verified publishers and permissions.
+-Confirmed no suspicious or unnecessary extensions.
+
+How malicious extensions can harm users:
+
+Spy on activity: Read every webpage you visit, including what you type
+Steal credentials: Capture passwords or cookies
+Inject ads or malware: Change search results or insert ads
+Redirect traffic: Send you to fake sites or phishing pages
+Mine cryptocurrency: Use your CPU in the background
+
+Outcome:
+
+-No action needed — all extensions safe.
+-No suspicious behavior observed.
+
